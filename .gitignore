@@ -1,0 +1,16 @@
+# Secrets - DO NOT COMMIT
+keys.json
+*.key
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.idea/
